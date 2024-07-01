@@ -5,7 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "html",
+    "css",
+    "pirmas",
+    "projektas"
+  ],
   "author": "Lukas https://github.com/Lusalvis",
   "license": "MIT",
   "description": ""
