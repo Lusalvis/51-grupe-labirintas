@@ -13,18 +13,17 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/50-grupe-eduhouse/
+Site published at: https://lusalvis.github.io/51-grupe-labirintas/
 
-Design: [Eduhouse](https://dribbble.com/shots/14735947--Eduhouse-Education-Management-Dashboard-Design/attachments/6437950?mode=media)
+Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI/attachments/9352426?mode=media)
 
 ## 🎯 Project features/goals
 
 -   Github pages
 -   icons (FontAwesome, ReactIcons)
--   CSS files
--   CSS flex
--   CSS grid
+-   inline CSS
 -   SVG images
+-   Favicon
 -   **NO** responsive design
 
 ## 🧰 Getting Started
@@ -49,7 +48,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/50-grupe-eduhouse.git
+    git clone https://github.com/front-end-by-rimantas/51-grupe-labirintas.git
     ```
 2. Install NPM packages
     ```sh
@@ -78,4 +77,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-No other resources..
+No other resources.
