@@ -5,22 +5,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 - Labirintas</title>
+    <style>
+        body  {
+          background-image: url("/OIP.jpg");
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+          height: 850px;
+          
+        }
+    </style>
 </head>
 
 <body style="background-color: green;">
-    <main style="display: inline-block; background-color: white; width: 50%; margin-top: 150px; margin-left: 25%;">
-        <div style="display: inline-block; width: 100%; margin-top: 0px; background-color: pink;">
-            <div>X</div>
-        </div>
-        <div style="display: inline-block; width: 100%; background-color: yellow;">
-            <img style="width: 40%; float: left; margin: 0; background-color: red;" src="./labirintas.jpg" alt="Taskas juda per labirinta link rodykles">
-            <div style="width: 60%; float: left; margin: 0;">
-                <h1>404</h1>
-                <p>Looks like you are in a maze.</p>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi nisi aperiam eius praesentium commodi facilis.</p>
-                <a href="#">Go back home</a>
+    <main style="display: inline-block; width: 40%;background-color: rgb(255, 255, 255);margin-top: 150px;margin-left: 30%;">
+        <div style="display: inline-block; width: 100%; margin-top: 0px;">
+                <div style="float:right; margin-right: 10px; margin-top: 10px"><img src="./x-button.png" style="width: 15px;height: 15px;" alt="close"></div>
             </div>
-        </div>
+            <div style="display: inline-block; width: 100%; margin-bottom: 100px;">
+              <img style="width: 35%; float:left; margin-left: 50px; margin-top: 50px;" src="./lab.png" alt="Labirintas">
+                <div style="width: 45%; float: right; margin: 0; margin-top: -60px;">
+                    <h1 style="font-family:Helvetica; color: rgb(4, 80, 4);font-size: 120px; margin-bottom: 20px">404</h1>
+                    <p style="font-family:Helvetica; font-weight: bold; color: rgb(4, 80, 4);">Looks like you are in a maze</p>
+                    <p style="font-family:Helvetica; width: 70%;color: grey; margin-bottom: 35px">Use keyboard to control the ball to maze exit to return home, or</p>
+                    <a style="font-family:Helvetica; background-color: green ;border-style: solid; border-width: 10px; border-color:green;font-size: 28px;color: white;text-decoration: 0" href="#">Go Back Home</a>
+                </div>
+            </div>
     </main>
 </body>
 </html>
